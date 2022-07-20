@@ -42,7 +42,7 @@ function App() {
       corSecundaria:'#FFF5D9'
     },
     {
-      nome:'Inovaçao e Gestã',
+      nome:'Inovaçao e Gestão',
       corPrimaria:'#FF8A29',
       corSecundaria:'#FFEEDF'
     },

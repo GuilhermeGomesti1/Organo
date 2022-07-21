@@ -37,7 +37,7 @@ const Formulario = (props) => {
                 <h2>Preencha os dados para criar o card do colaborador</h2>
                 <CampoTexto 
                 obrigatorio={true} 
-                label="Name"
+                label="Nome"
                  placeholder="Digite seu nome" 
                  valor={nome}
                  aoAlterado={valor => setNome(valor)}
